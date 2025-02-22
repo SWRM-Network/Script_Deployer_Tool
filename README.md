@@ -8,7 +8,7 @@ SWRM Script Deployer is a GUI tool designed for deploying scripts on the SWRM bl
 - **Set Script (Type 13)** – Deploy an account script.
 - **Issue Smart Asset (Type 3)** – Create a smart asset with customizable parameters.
 - **Script Compilation** – Uses SWRM node API for script compilation.
-- **Transaction Signing** – Private key-based signing using `pywaves`.
+- **Transaction Signing** – Private key-based signing script.
 - **User-Friendly UI** – Built with input boxes for easy interaction.
 
 ## Installation
