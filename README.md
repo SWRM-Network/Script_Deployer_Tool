@@ -1,12 +1,12 @@
 # SWRM Script Deployer
 
-SWRM Script Deployer is a GUI tool designed for deploying scripts on the SWRM blockchain. It enables users to set asset scripts, account scripts, and issue smart assets using a private key.
+SWRM Script Deployer is a GUI tool designed for deploying scripts on the SWRM blockchain. It enables users to set asset scripts, deploy and update dapp scripts, and issue smart assets using a private key.
 
 ## Features
 
 - **Set Asset Script (Type 15)** – Deploy a script to a specific asset.
-- **Set Script (Type 13)** – Deploy and update a smart contract on an account.
-- **Issue Smart Asset (Type 3)** – Create a smart asset with customizable parameters.
+- **Set Script (Type 13)** – Deploy and update a smart contract on specific address.
+- **Issue Smart Asset (Type 3)** – Create a smart asset with customizable parameters using smart contract script.
 - **Script Compilation** – Uses SWRM node API for script compilation.
 - **Transaction Signing** – Private key-based signing script.
 - **User-Friendly UI** – Built with input boxes for easy interaction.
